@@ -23,3 +23,5 @@ that can be a very efficient way for you to get to a high accuracy model.
 ![image](https://user-images.githubusercontent.com/11358728/118372273-38050e80-b587-11eb-9400-54b22ea1f81d.png)
 
 Use recent data as test data to preemptively foresee productioin distribution mismatch.
+
+![image](https://user-images.githubusercontent.com/11358728/118374268-756e9980-b591-11eb-815e-211c59a2b8a0.png)
