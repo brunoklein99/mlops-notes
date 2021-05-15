@@ -29,3 +29,9 @@ Use recent data as test data to preemptively foresee productioin distribution mi
 ![image](https://user-images.githubusercontent.com/11358728/118374337-e6ae4c80-b591-11eb-88bb-3c1c5c188499.png)
 
 ![image](https://user-images.githubusercontent.com/11358728/118374353-00e82a80-b592-11eb-9bad-53668ff6d831.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/11358728/118375792-67714680-b59a-11eb-8eed-738a1e29d108.png)
+
+![image](https://user-images.githubusercontent.com/11358728/118376026-e0bd6900-b59b-11eb-9959-91a12ddd3c3b.png)
