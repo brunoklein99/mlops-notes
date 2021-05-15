@@ -19,3 +19,7 @@ And if you can use that error analysis to tell you how to systematically
 improve your data, maybe improve the code to that's okay.
 But often if their analysis can tell you how to systematically improve the data,
 that can be a very efficient way for you to get to a high accuracy model. 
+
+![image](https://user-images.githubusercontent.com/11358728/118372273-38050e80-b587-11eb-9400-54b22ea1f81d.png)
+
+Use recent data as test data to preemptively foresee productioin distribution mismatch.
